@@ -1,0 +1,7 @@
+D:\Chirurg\Szkoła\Uniwersytet Warmińsko-Mazurski\VIII semestr\Piojas\Ćwiczenia powtórzeniowe 1\ConsoleApp45\ConsoleApp45\bin\Debug\ConsoleApp45.exe.config
+D:\Chirurg\Szkoła\Uniwersytet Warmińsko-Mazurski\VIII semestr\Piojas\Ćwiczenia powtórzeniowe 1\ConsoleApp45\ConsoleApp45\bin\Debug\ConsoleApp45.exe
+D:\Chirurg\Szkoła\Uniwersytet Warmińsko-Mazurski\VIII semestr\Piojas\Ćwiczenia powtórzeniowe 1\ConsoleApp45\ConsoleApp45\bin\Debug\ConsoleApp45.pdb
+D:\Chirurg\Szkoła\Uniwersytet Warmińsko-Mazurski\VIII semestr\Piojas\Ćwiczenia powtórzeniowe 1\ConsoleApp45\ConsoleApp45\obj\Debug\ConsoleApp45.csprojAssemblyReference.cache
+D:\Chirurg\Szkoła\Uniwersytet Warmińsko-Mazurski\VIII semestr\Piojas\Ćwiczenia powtórzeniowe 1\ConsoleApp45\ConsoleApp45\obj\Debug\ConsoleApp45.csproj.CoreCompileInputs.cache
+D:\Chirurg\Szkoła\Uniwersytet Warmińsko-Mazurski\VIII semestr\Piojas\Ćwiczenia powtórzeniowe 1\ConsoleApp45\ConsoleApp45\obj\Debug\ConsoleApp45.exe
+D:\Chirurg\Szkoła\Uniwersytet Warmińsko-Mazurski\VIII semestr\Piojas\Ćwiczenia powtórzeniowe 1\ConsoleApp45\ConsoleApp45\obj\Debug\ConsoleApp45.pdb
